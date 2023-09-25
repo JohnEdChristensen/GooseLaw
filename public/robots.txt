@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://gooselaw.org/sitemap.xml
+Sitemap: https://johnedchristensen.github.io/GooseLaw/sitemap.xml

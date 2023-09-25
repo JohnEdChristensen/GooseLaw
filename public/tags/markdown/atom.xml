@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Goose&#x27;s Law - markdown</title>
-    <link href="https://gooselaw.org/tags/markdown/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://gooselaw.org"/>
+    <link href="https://johnedchristensen.github.io/GooseLaw/tags/markdown/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://johnedchristensen.github.io/GooseLaw/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2021-01-02T00:00:00+00:00</updated>
-    <id>https://gooselaw.org/tags/markdown/atom.xml</id>
+    <id>https://johnedchristensen.github.io/GooseLaw/tags/markdown/atom.xml</id>
     <entry xml:lang="en">
         <title>Markdown Syntax Guide</title>
         <published>2021-01-02T00:00:00+00:00</published>
@@ -13,8 +13,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://gooselaw.org/post/markdown-syntax-guide/" type="text/html"/>
-        <id>https://gooselaw.org/post/markdown-syntax-guide/</id>
+        <link rel="alternate" href="https://johnedchristensen.github.io/GooseLaw/post/markdown-syntax-guide/" type="text/html"/>
+        <id>https://johnedchristensen.github.io/GooseLaw/post/markdown-syntax-guide/</id>
         
         <content type="html">&lt;h3 id=&quot;headings&quot;&gt;Headings&lt;&#x2F;h3&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt;&lt;&#x2F;code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;&#x2F;code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;&#x2F;code&gt; is the lowest.&lt;&#x2F;p&gt;
