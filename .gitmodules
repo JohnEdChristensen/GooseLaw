@@ -1,9 +1,0 @@
-[submodule "themes/d3c3nt"]
-	path = themes/d3c3nt
-	url = git://git.figbert.com/d3c3nt.git
-[submodule "themes/emily_zola_theme"]
-	path = themes/emily_zola_theme
-	url = https://github.com/kyoheiu/emily_zola_theme.git
-[submodule "themes/moss_zola"]
-	path = themes/moss_zola
-	url = https://github.com/JohnEdChristensen/moss_zola.git
