@@ -1,6 +1,6 @@
 theme = "moss_zola"
 # The URL the site will be built for
-base_url = "https://johnedchristensen.github.io/GooseLaw/"
+base_url = "https://www.gooselaw.org/"
 title = "Goose's Law"
 
 
