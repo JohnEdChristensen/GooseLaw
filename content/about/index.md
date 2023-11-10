@@ -1,12 +1,22 @@
 +++
-title = "Goose's Law"
-date = 2023-09-24
+title = "About Me"
+date = 2023-11-10
 template = "post-page.html"
 +++
 
-### about this site
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### John Christensen
 
-### about author
+Hello, and welcome to my corner of the internet. I plan to put some stuff here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Some stuff I do: [github](https://github.com/JohnEdChristensen)
+- Some stuff I think: [mastodon](https://hachyderm.io/@JohnWithAnH)
+
+#### Currently Doing
+
+I'm exploring my Interests at the [Recurse Center](https://www.recurse.com/).
+
+#### Goose's Law
+
+> "a law relating the distribution of electric charge to the resulting electric field. In its integral form, it states that the flux of the electric field out of an arbitrary closed surface is proportional to the electric charge enclosed by the surface, irrespective of how that charge is distributed."
+>
+> ([wikipedia](https://en.wikipedia.org/wiki/Gauss%27s_law))

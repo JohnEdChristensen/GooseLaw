@@ -2,8 +2,8 @@ theme = "moss_zola"
 # The URL the site will be built for
 base_url = "https://www.gooselaw.org/"
 title = "Goose's Law"
-
-
+author = "John Christensen"
+generate_feed = true
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
