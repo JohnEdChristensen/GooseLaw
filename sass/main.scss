@@ -135,7 +135,6 @@ body {
 
 .date_postpage {
   color: $blue;
-  text-align: right;
 }
 
 .title {
@@ -207,9 +206,15 @@ body {
 }
 
 .socials {
-  margin-left: 10px;
+  float: right;
+  margin: 10px;
   a {
     margin-left: 5px;
+    img {
+      svg {
+        fill: blue;
+      }
+    }
   }
 }
 
