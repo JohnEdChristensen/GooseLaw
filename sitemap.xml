@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.gooselaw.org/</loc>
+    </url>
+    <url>
+        <loc>https://www.gooselaw.org/about/</loc>
+        <lastmod>2023-11-10</lastmod>
+    </url>
+    <url>
+        <loc>https://www.gooselaw.org/categories/</loc>
+    </url>
+    <url>
+        <loc>https://www.gooselaw.org/post/</loc>
+    </url>
+    <url>
+        <loc>https://www.gooselaw.org/post/nothing-important/</loc>
+        <lastmod>2023-11-14</lastmod>
+    </url>
+    <url>
+        <loc>https://www.gooselaw.org/tags/</loc>
+    </url>
+</urlset>

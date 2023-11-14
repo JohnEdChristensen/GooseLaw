@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Goose&#x27;s Law</title>
+    <link href="https://www.gooselaw.org/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://www.gooselaw.org/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-11-14T00:00:00+00:00</updated>
+    <id>https://www.gooselaw.org/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Forcing myself to write a blog post that has nothing important to say</title>
+        <published>2023-11-14T00:00:00+00:00</published>
+        <updated>2023-11-14T00:00:00+00:00</updated>
+        <author>
+          <name>John Christensen</name>
+        </author>
+        <link rel="alternate" href="https://www.gooselaw.org/post/nothing-important/" type="text/html"/>
+        <id>https://www.gooselaw.org/post/nothing-important/</id>
+        
+        <content type="html">&lt;p&gt;I keep telling myself &amp;quot;I&#x27;ll make my first blog post once I have something important to say&amp;quot;. Somehow my definition of &amp;quot;important&amp;quot; seems to be continually moving just out of my reach, and if I hold off another week or two I will have something worth sharing.&lt;&#x2F;p&gt;
+&lt;p&gt;So instead of perpetuating this cycle, I&#x27;ll try to at least break the ice.&lt;&#x2F;p&gt;
+&lt;p&gt;I have nothing important to say right now. Hopefully I&#x27;ll have more non-important (and maybe some important) things to share in the future too.&lt;&#x2F;p&gt;
+&lt;p&gt;In the future I&#x27;d like to share some of my exploration around running Python in the browser via WebAssembly (check out &lt;a href=&quot;https:&#x2F;&#x2F;pyodide.org&#x2F;en&#x2F;stable&#x2F;&quot;&gt;pyodide&lt;&#x2F;a&gt;). What excites me about this is that languages other than javascript can seamlessly run in the browser, no install&#x2F;configuration required! My hope is that work in this area will enable more people to easily share their work online, especially for those that aren&#x27;t familiar with javascript.&lt;&#x2F;p&gt;
+&lt;p&gt;In the meantime, follow me on &lt;a href=&quot;https:&#x2F;&#x2F;hachyderm.io&#x2F;@JohnWithAnH&quot;&gt;Mastodon&lt;&#x2F;a&gt;. It&#x27;s where all the cool kids are these days. Or you can follow me on &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;JohnnyC1423&quot;&gt;Twitter&lt;&#x2F;a&gt; if you are into that type of thing.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>About Me</title>
+        <published>2023-11-10T00:00:00+00:00</published>
+        <updated>2023-11-10T00:00:00+00:00</updated>
+        <author>
+          <name>John Christensen</name>
+        </author>
+        <link rel="alternate" href="https://www.gooselaw.org/about/" type="text/html"/>
+        <id>https://www.gooselaw.org/about/</id>
+        
+        <content type="html">&lt;h3 id=&quot;john-christensen&quot;&gt;John Christensen&lt;&#x2F;h3&gt;
+&lt;p&gt;Hello, and welcome to my corner of the internet. I plan to put some stuff here.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Some stuff I do: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;JohnEdChristensen&quot;&gt;github&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Some stuff I think: &lt;a href=&quot;https:&#x2F;&#x2F;hachyderm.io&#x2F;@JohnWithAnH&quot;&gt;mastodon&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;currently-doing&quot;&gt;Currently Doing&lt;&#x2F;h4&gt;
+&lt;p&gt;I&#x27;m exploring my Interests at the &lt;a href=&quot;https:&#x2F;&#x2F;www.recurse.com&#x2F;&quot;&gt;Recurse Center&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;goose-s-law&quot;&gt;Goose&#x27;s Law&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;a law relating the distribution of electric charge to the resulting electric field. In its integral form, it states that the flux of the electric field out of an arbitrary closed surface is proportional to the electric charge enclosed by the surface, irrespective of how that charge is distributed.&amp;quot;&lt;&#x2F;p&gt;
+&lt;p&gt;(&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Gauss%27s_law&quot;&gt;wikipedia&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+        
+    </entry>
+</feed>
