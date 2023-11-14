@@ -27,11 +27,13 @@
 
     <span class="socials">
     <a rel="me" data-hint="Mastodon" title="Mastodon" href="https://hachyderm.io/@JohnWithAnH">
-      <img class="icon" src="icons/mastodon.svg" alt="Mastodon" height="20"/></a>
+      <img class="icon" src="{{config.base_url}}icons/mastodon.svg" alt="Mastodon" height="20"/></a>
     <a rel="me" data-hint="Github" title="Github" href="https://github.com/JohnEdChristensen">
-      <img class="icon" src="icons/github.svg" alt="Github" height="20"/></a>
+      <img class="icon" src="{{config.base_url}}icons/github.svg" alt="Github" height="20"/></a>
     <a rel="me" data-hint="Twitter" title="Twitter" href="https://twitter.com/JohnnyC1423">
-      <img class="icon" src="icons/twitter.svg" alt="Twitter" height="20"/></a>
+      <img class="icon" src="{{config.base_url}}icons/twitter.svg" alt="Twitter" height="20"/></a>
+    <a rel="me" data-hint="RSS" title="RSS" href="{{config.base_url}}atom.xml">
+      <img class="icon" src="{{config.base_url}}icons/rss.svg" alt="RSS" height="20"/></a>
     </span>
   <section class="section">
     <div class="container">
@@ -41,7 +43,7 @@
 </body>
 
 <div class="footer">
-  {{ config.title }}
+  <img src="{{config.base_url}}images/goose_party.png" width=25>
 </div>
 
 </html>
