@@ -9,7 +9,10 @@
   <div class="title_postpage">{{ page.title }}</div>
 </p>
 <p>
-  <div class="date_postpage">{{ page.date }}</div>
+  <div>
+  <span class="date_postpage">{{ page.date }}</span>
+  <span class="author">{{ config.author }}</span>
+  </div>
   <div class="taxonomies_postpage">
   {% if page.taxonomies.categories %}
       {% for category in page.taxonomies.categories %}

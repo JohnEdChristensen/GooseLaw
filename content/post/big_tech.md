@@ -19,6 +19,7 @@ Software dev I think enables that for me.
 
 I went to Epic. I was at some point satisfied with these being a high impact career. Epic was not perfect, but I could push it in good directions in my own small way.
 
+
 ## The Bad (past)
 But the software sucks. I hate useing it, and end users hate using it. This isn't just a dig at epic, Epic is leagues ahead in many regards to all the competition, but Epic and It's competition are not competing to make the most loved softaware. They are all competing to make the most profitable software.
 

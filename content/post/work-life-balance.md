@@ -1,5 +1,5 @@
 +++
-title = "Promoting work life balance as an act of altruism"
+title = "Promoting Work-Life Balance as an Act of Altruism"
 date = 2024-01-24
 draft = true
 +++
